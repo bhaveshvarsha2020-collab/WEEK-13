@@ -1,4 +1,6 @@
-#-Loan Default Prediction System -📊 Loan Risk Analysis and Loan Amount Prediction 📌 Project Overview
+# Loan Default Prediction System
+Loan Risk Analysis and Loan Amount Prediction 
+📌 Project Overview
 
 This project analyzes loan data to identify risk categories, understand borrower behavior, and predict loan amounts using Machine Learning. The project performs data cleaning, exploratory data analysis (EDA), risk assessment, visualization, and predictive modeling using Python.
 
